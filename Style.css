@@ -1,0 +1,25 @@
+#headingColor{
+    color: yellow;
+    background: linear-gradient(yellow, red)
+}
+.headColor{
+    color: blue;
+    /* background: linear-gradient( g); */
+}
+.blueImage{
+    color: blue;
+}
+.redImage{
+    color: red;
+}
+.purpleImage{
+    color: purple;
+}
+.orangeImage{
+    color: orange;
+
+}
+.yellowImage{
+    color: yellow;
+    background-color:#5b7c99;
+}
